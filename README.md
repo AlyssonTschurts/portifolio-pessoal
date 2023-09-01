@@ -10,6 +10,7 @@
 
 
 # Projeto - aprendendo a escrever um REDME
+![image info](img/capa.png)
 
 ## Descrição
 
