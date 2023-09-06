@@ -14,14 +14,20 @@
 ![image info](img/capa.png)
 
 ## Descrição
-
+Nós, da empresa GUNA, desenvolvemos um modelo de capa para você desenvolvedor ou desenvolvedora usar toda a sua criatividade, um modelo você ja tem, agora cabe a você criar o que você quiser!
 
 ## Indrutução 
+![image info](img/giphy.gif)
 
 ## Funcionalidade
+Este site tem a funcionalidade de ajudar um desenvolvedor ou uma desenvolvedora a dar seus primeiros passos com um site, demos aquele empurrãozinho 😉
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas´
+
+Ás tecnologias utilizadas para este modelo de capa são: HTML, CSS, e JAVASCRIPT.
 
 ## Fonte consultadas 
+
+Com a ajuda do Site "BOOTSTRAP" conseguimos diversas fontes que nos ajudaram.
 
 ## Autores 
