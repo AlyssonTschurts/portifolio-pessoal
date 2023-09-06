@@ -7,7 +7,7 @@
 [Tecnologia utilizada](#tecnologias-utilizadas)  
 [Fonte consultadas](#fonte-consultadas)  
 [Autores](#autores)  
-
+image.png
 
 # Projeto - aprendendo a escrever um REDME
 ![image info](img/capa.png)
