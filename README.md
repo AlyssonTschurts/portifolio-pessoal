@@ -22,7 +22,7 @@ Nós, da empresa GUNA, desenvolvemos um modelo de capa para você desenvolvedor 
 ## Funcionalidade
 Este site tem a funcionalidade de ajudar um desenvolvedor ou uma desenvolvedora a dar seus primeiros passos com um site, demos aquele empurrãozinho 😉
 
-### Tecnologias utilizadas´
+### Tecnologias utilizadas
 
 Ás tecnologias utilizadas para este modelo de capa são: HTML, CSS, e JAVASCRIPT.
 
