@@ -1,7 +1,7 @@
 #índice
 
 [ Projeto - aprendendo a escrever um REDME](#projeto---aprendendo-a-escrever-um-redme)  
-[Descrição](Aqui está um site aonde você possa cubrir e colocar o que você quiser, use sua criatividade!)  
+[Descrição](#descri%C3%A7%C3%A3o)  
 [Indrutução](#indrutu%C3%A7%C3%A3o)  
 [funcionalidade](#funcionalidade)  
 [Tecnologia utilizada](#tecnologias-utilizadas)  
