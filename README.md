@@ -1,6 +1,6 @@
 #índice
 
-#descrição
+
 
 [ Projeto - aprendendo a escrever um REDME](#projeto---aprendendo-a-escrever-um-redme)  
 [Descrição](#descri%C3%A7%C3%A3o)  
@@ -26,10 +26,10 @@ Este site tem a funcionalidade de ajudar um desenvolvedor ou uma desenvolvedora 
 
 ### Tecnologias utilizadas
 
-Ás tecnologias utilizadas para este modelo de capa são: HTML, CSS, e JAVASCRIPT.
+Ás tecnologias utilizadas para este modelo de capa são: HTML5, CSS3, e BOOTSTRAP.
 
 ## Fonte consultadas 
 
-Com a ajuda do Site "BOOTSTRAP" conseguimos diversas fontes que nos ajudaram.
+As Fontes utilizadas foram o Alura.com e o Github de lohan 
 
 ## Autores 
