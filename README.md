@@ -26,7 +26,7 @@ Este site tem a funcionalidade de ajudar um desenvolvedor ou uma desenvolvedora 
 
 ### Tecnologias utilizadas
 
-Ás tecnologias utilizadas para este modelo de capa são: HTML5, CSS3, e BOOTSTRAP.
+Ás tecnologias utilizadas para este modelo de capa são: HTML5, CSS3, e BOOTSTRAP5.
 
 ## Fonte consultadas 
 
